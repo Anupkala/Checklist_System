@@ -34,7 +34,7 @@ This project is a simple Checklist System built using Node.js that evaluates spe
 
 * Start the server: **npm start**
 
-* Open your browser and visit: http://localhost:3000
+* Open your browser and visit: http://localhost:2728
 
 ## Steps to Add a New Rule
 * Define the Rule: Add a new object to the rules array. Each object must have:
