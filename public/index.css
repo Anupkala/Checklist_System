@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+th {
+    background-color: #f4f4f4;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.passed {
+    color: green;
+    font-weight:500;
+    text-transform: uppercase;
+}
+
+.failed {
+    color: red;
+    font-weight: 500;
+    text-transform: uppercase;
+}
